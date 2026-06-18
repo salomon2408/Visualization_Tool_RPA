@@ -184,21 +184,33 @@ def make_heatmap(df: pd.DataFrame) -> go.Figure:
         df.groupby(["periode", "transaction"])["qte_volume"]
           .sum().reset_index()
           .pivot(index="transaction", columns="periode", values="qte_volume")
+          .fillna(0).astype(int)
     )
-    fig = px.imshow(
-        pivot,
-        labels=dict(x="Période", y="Type de transaction", color="Transactions"),
+
+    y_labels = [f"Type {p}" for p in pivot.index]
+    x_labels = [f"P{k}"    for k in pivot.columns]
+
+    fig = go.Figure(go.Heatmap(
+        z=pivot.values,
+        x=x_labels,
+        y=y_labels,
+        colorscale="Blues",
+        text=pivot.values,
+        texttemplate="%{text}",
+        textfont=dict(size=11),
+        hovertemplate="<b>%{y} | %{x}</b><br>Transactions : %{z}<extra></extra>",
+        colorbar=dict(title="Transactions"),
+        xgap=3,   # ← séparateur visible entre colonnes
+        ygap=3,   # ← séparateur visible entre lignes / transactions
+    ))
+
+    fig.update_layout(
         title="Total des transactions par (période × type) — tous robots",
-        color_continuous_scale="Blues",
-        text_auto=True,
-        aspect="auto",
+        xaxis=dict(title="Période", side="bottom"),
+        yaxis=dict(title="Type de transaction", autorange="reversed"),
+        height=max(300, len(pivot.index) * 55 + 100),
+        margin=dict(t=55, l=110),
     )
-    fig.update_xaxes(
-        tickmode="array",
-        tickvals=pivot.columns.tolist(),
-        ticktext=[f"P{k}" for k in pivot.columns],
-    )
-    fig.update_layout(height=420, margin=dict(t=55))
     return fig
 
 
