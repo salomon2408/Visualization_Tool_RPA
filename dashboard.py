@@ -479,7 +479,6 @@ with tab3:
 #region TAB 4 : LaTeX
 with tab4:
     st.subheader("Export du tableau LaTeX")
-    st.caption("Format identique au Tableau II de l'article. Si le tableau est large, il est automatiquement découpé en blocs.")
 
     if df_all.empty:
         st.info("Aucune donnée.")

@@ -45,7 +45,6 @@ rpa-optimisation/
 |---|---|---|
 | Python | 3.10+ | Langage principal |
 | AMPL Community Edition | — | Environnement de modélisation |
-| HiGHS | inclus avec amplpy | Solveur MIP (gratuit) |
 
 ---
 
