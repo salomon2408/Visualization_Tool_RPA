@@ -2,1908 +2,1716 @@
   "transactions": [
     {
       "periode": 1,
-      "transaction": 8,
+      "transaction": 13,
       "robot": 1,
-      "qte_volume": 25
+      "qte_volume": 57
     },
     {
       "periode": 1,
-      "transaction": 8,
+      "transaction": 13,
       "robot": 2,
-      "qte_volume": 25
+      "qte_volume": 57
     },
     {
       "periode": 1,
-      "transaction": 8,
+      "transaction": 13,
       "robot": 3,
-      "qte_volume": 25
+      "qte_volume": 57
     },
     {
       "periode": 1,
-      "transaction": 8,
+      "transaction": 13,
       "robot": 4,
-      "qte_volume": 25
+      "qte_volume": 57
     },
     {
       "periode": 1,
-      "transaction": 8,
+      "transaction": 13,
       "robot": 5,
-      "qte_volume": 25
+      "qte_volume": 57
     },
     {
       "periode": 1,
-      "transaction": 8,
+      "transaction": 13,
       "robot": 6,
-      "qte_volume": 25
+      "qte_volume": 57
     },
     {
       "periode": 1,
-      "transaction": 8,
+      "transaction": 13,
       "robot": 7,
-      "qte_volume": 25
+      "qte_volume": 57
     },
     {
       "periode": 1,
-      "transaction": 8,
+      "transaction": 13,
       "robot": 8,
-      "qte_volume": 25
+      "qte_volume": 44
     },
     {
       "periode": 1,
-      "transaction": 8,
-      "robot": 9,
-      "qte_volume": 25
-    },
-    {
-      "periode": 1,
-      "transaction": 8,
-      "robot": 10,
-      "qte_volume": 25
-    },
-    {
-      "periode": 1,
-      "transaction": 8,
-      "robot": 11,
-      "qte_volume": 25
-    },
-    {
-      "periode": 1,
-      "transaction": 8,
-      "robot": 12,
-      "qte_volume": 25
-    },
-    {
-      "periode": 1,
-      "transaction": 8,
-      "robot": 13,
-      "qte_volume": 25
-    },
-    {
-      "periode": 1,
-      "transaction": 8,
-      "robot": 14,
-      "qte_volume": 3
-    },
-    {
-      "periode": 1,
-      "transaction": 13,
-      "robot": 14,
-      "qte_volume": 48
-    },
-    {
-      "periode": 1,
-      "transaction": 13,
-      "robot": 15,
-      "qte_volume": 57
-    },
-    {
-      "periode": 1,
-      "transaction": 13,
-      "robot": 16,
-      "qte_volume": 57
-    },
-    {
-      "periode": 1,
-      "transaction": 13,
-      "robot": 17,
-      "qte_volume": 57
-    },
-    {
-      "periode": 1,
-      "transaction": 13,
-      "robot": 18,
-      "qte_volume": 57
-    },
-    {
-      "periode": 1,
-      "transaction": 13,
-      "robot": 19,
-      "qte_volume": 57
-    },
-    {
-      "periode": 1,
-      "transaction": 13,
-      "robot": 20,
-      "qte_volume": 57
-    },
-    {
-      "periode": 1,
-      "transaction": 13,
-      "robot": 21,
-      "qte_volume": 5
-    },
-    {
-      "periode": 1,
-      "transaction": 12,
-      "robot": 21,
-      "qte_volume": 58
-    },
-    {
-      "periode": 1,
-      "transaction": 12,
-      "robot": 22,
-      "qte_volume": 42
-    },
-    {
-      "periode": 1,
-      "transaction": 3,
-      "robot": 22,
-      "qte_volume": 51
-    },
-    {
-      "periode": 1,
-      "transaction": 3,
-      "robot": 23,
-      "qte_volume": 157
-    },
-    {
-      "periode": 2,
-      "transaction": 8,
-      "robot": 1,
-      "qte_volume": 18
-    },
-    {
-      "periode": 2,
-      "transaction": 8,
-      "robot": 2,
-      "qte_volume": 18
-    },
-    {
-      "periode": 2,
-      "transaction": 8,
-      "robot": 3,
-      "qte_volume": 18
-    },
-    {
-      "periode": 2,
-      "transaction": 8,
-      "robot": 4,
-      "qte_volume": 18
-    },
-    {
-      "periode": 2,
-      "transaction": 8,
-      "robot": 5,
-      "qte_volume": 18
-    },
-    {
-      "periode": 2,
-      "transaction": 8,
-      "robot": 6,
-      "qte_volume": 18
-    },
-    {
-      "periode": 2,
-      "transaction": 8,
-      "robot": 7,
-      "qte_volume": 18
-    },
-    {
-      "periode": 2,
-      "transaction": 8,
-      "robot": 8,
-      "qte_volume": 18
-    },
-    {
-      "periode": 2,
-      "transaction": 8,
-      "robot": 9,
-      "qte_volume": 18
-    },
-    {
-      "periode": 2,
-      "transaction": 8,
-      "robot": 10,
-      "qte_volume": 5
-    },
-    {
-      "periode": 2,
-      "transaction": 13,
-      "robot": 10,
-      "qte_volume": 27
-    },
-    {
-      "periode": 2,
-      "transaction": 13,
-      "robot": 14,
-      "qte_volume": 40
-    },
-    {
-      "periode": 2,
-      "transaction": 13,
-      "robot": 15,
-      "qte_volume": 40
-    },
-    {
-      "periode": 2,
-      "transaction": 13,
-      "robot": 16,
-      "qte_volume": 40
-    },
-    {
-      "periode": 2,
-      "transaction": 13,
-      "robot": 17,
-      "qte_volume": 40
-    },
-    {
-      "periode": 2,
-      "transaction": 13,
-      "robot": 18,
-      "qte_volume": 40
-    },
-    {
-      "periode": 2,
-      "transaction": 13,
-      "robot": 19,
-      "qte_volume": 40
-    },
-    {
-      "periode": 2,
-      "transaction": 13,
-      "robot": 20,
-      "qte_volume": 40
-    },
-    {
-      "periode": 2,
-      "transaction": 13,
-      "robot": 11,
-      "qte_volume": 18
-    },
-    {
-      "periode": 2,
-      "transaction": 1,
-      "robot": 11,
-      "qte_volume": 6
-    },
-    {
-      "periode": 2,
-      "transaction": 1,
-      "robot": 12,
-      "qte_volume": 13
-    },
-    {
-      "periode": 2,
-      "transaction": 1,
-      "robot": 13,
-      "qte_volume": 13
-    },
-    {
-      "periode": 2,
-      "transaction": 1,
-      "robot": 21,
-      "qte_volume": 13
-    },
-    {
-      "periode": 2,
-      "transaction": 1,
-      "robot": 22,
-      "qte_volume": 13
-    },
-    {
-      "periode": 2,
-      "transaction": 1,
-      "robot": 23,
-      "qte_volume": 3
-    },
-    {
-      "periode": 2,
       "transaction": 5,
-      "robot": 23,
-      "qte_volume": 38
+      "robot": 8,
+      "qte_volume": 15
     },
     {
-      "periode": 3,
-      "transaction": 1,
-      "robot": 11,
-      "qte_volume": 19
+      "periode": 1,
+      "transaction": 5,
+      "robot": 9,
+      "qte_volume": 78
     },
     {
-      "periode": 3,
-      "transaction": 1,
-      "robot": 12,
-      "qte_volume": 19
-    },
-    {
-      "periode": 3,
-      "transaction": 1,
-      "robot": 13,
-      "qte_volume": 19
-    },
-    {
-      "periode": 3,
-      "transaction": 1,
-      "robot": 21,
-      "qte_volume": 19
-    },
-    {
-      "periode": 3,
-      "transaction": 1,
-      "robot": 22,
-      "qte_volume": 19
-    },
-    {
-      "periode": 3,
-      "transaction": 1,
-      "robot": 1,
-      "qte_volume": 18
-    },
-    {
-      "periode": 3,
-      "transaction": 1,
-      "robot": 2,
-      "qte_volume": 18
-    },
-    {
-      "periode": 3,
-      "transaction": 1,
-      "robot": 3,
-      "qte_volume": 18
-    },
-    {
-      "periode": 3,
-      "transaction": 1,
-      "robot": 4,
-      "qte_volume": 18
-    },
-    {
-      "periode": 3,
-      "transaction": 1,
-      "robot": 5,
-      "qte_volume": 2
-    },
-    {
-      "periode": 3,
-      "transaction": 13,
-      "robot": 5,
-      "qte_volume": 47
-    },
-    {
-      "periode": 3,
-      "transaction": 13,
+      "periode": 1,
+      "transaction": 5,
       "robot": 10,
-      "qte_volume": 57
+      "qte_volume": 78
     },
     {
-      "periode": 3,
-      "transaction": 13,
+      "periode": 1,
+      "transaction": 5,
+      "robot": 11,
+      "qte_volume": 78
+    },
+    {
+      "periode": 1,
+      "transaction": 5,
+      "robot": 12,
+      "qte_volume": 78
+    },
+    {
+      "periode": 1,
+      "transaction": 5,
+      "robot": 13,
+      "qte_volume": 78
+    },
+    {
+      "periode": 1,
+      "transaction": 5,
       "robot": 14,
-      "qte_volume": 57
+      "qte_volume": 23
     },
     {
-      "periode": 3,
-      "transaction": 13,
+      "periode": 1,
+      "transaction": 12,
+      "robot": 14,
+      "qte_volume": 44
+    },
+    {
+      "periode": 1,
+      "transaction": 12,
       "robot": 15,
-      "qte_volume": 57
+      "qte_volume": 66
     },
     {
-      "periode": 3,
-      "transaction": 13,
+      "periode": 1,
+      "transaction": 12,
       "robot": 16,
-      "qte_volume": 57
+      "qte_volume": 66
     },
     {
-      "periode": 3,
-      "transaction": 13,
-      "robot": 17,
-      "qte_volume": 57
+      "periode": 2,
+      "transaction": 8,
+      "robot": 1,
+      "qte_volume": 28
     },
     {
-      "periode": 3,
-      "transaction": 13,
-      "robot": 18,
-      "qte_volume": 57
+      "periode": 2,
+      "transaction": 8,
+      "robot": 2,
+      "qte_volume": 28
     },
     {
-      "periode": 3,
-      "transaction": 13,
-      "robot": 19,
+      "periode": 2,
+      "transaction": 8,
+      "robot": 3,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 4,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 5,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 6,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 7,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 8,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 9,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 10,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 11,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 12,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 13,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 14,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 15,
+      "qte_volume": 28
+    },
+    {
+      "periode": 2,
+      "transaction": 8,
+      "robot": 16,
       "qte_volume": 28
     },
     {
       "periode": 3,
-      "transaction": 5,
-      "robot": 19,
-      "qte_volume": 37
+      "transaction": 1,
+      "robot": 1,
+      "qte_volume": 13
     },
     {
       "periode": 3,
-      "transaction": 5,
-      "robot": 23,
-      "qte_volume": 78
+      "transaction": 1,
+      "robot": 2,
+      "qte_volume": 13
     },
     {
       "periode": 3,
-      "transaction": 5,
+      "transaction": 1,
+      "robot": 3,
+      "qte_volume": 13
+    },
+    {
+      "periode": 3,
+      "transaction": 1,
+      "robot": 4,
+      "qte_volume": 13
+    },
+    {
+      "periode": 3,
+      "transaction": 1,
+      "robot": 5,
+      "qte_volume": 13
+    },
+    {
+      "periode": 3,
+      "transaction": 1,
       "robot": 6,
-      "qte_volume": 75
+      "qte_volume": 13
     },
     {
       "periode": 3,
-      "transaction": 5,
+      "transaction": 1,
       "robot": 7,
-      "qte_volume": 75
+      "qte_volume": 13
     },
     {
       "periode": 3,
-      "transaction": 5,
+      "transaction": 1,
       "robot": 8,
-      "qte_volume": 75
+      "qte_volume": 13
     },
     {
       "periode": 3,
-      "transaction": 5,
+      "transaction": 1,
       "robot": 9,
-      "qte_volume": 50
+      "qte_volume": 13
     },
     {
       "periode": 3,
-      "transaction": 2,
-      "robot": 9,
-      "qte_volume": 7
+      "transaction": 1,
+      "robot": 10,
+      "qte_volume": 13
     },
     {
       "periode": 3,
-      "transaction": 2,
-      "robot": 20,
-      "qte_volume": 14
+      "transaction": 1,
+      "robot": 11,
+      "qte_volume": 13
     },
     {
       "periode": 3,
-      "transaction": 12,
-      "robot": 20,
-      "qte_volume": 19
+      "transaction": 1,
+      "robot": 12,
+      "qte_volume": 13
     },
     {
       "periode": 3,
-      "transaction": 6,
-      "robot": 20,
-      "qte_volume": 2
+      "transaction": 1,
+      "robot": 13,
+      "qte_volume": 13
+    },
+    {
+      "periode": 3,
+      "transaction": 1,
+      "robot": 14,
+      "qte_volume": 13
+    },
+    {
+      "periode": 3,
+      "transaction": 1,
+      "robot": 15,
+      "qte_volume": 13
+    },
+    {
+      "periode": 3,
+      "transaction": 1,
+      "robot": 16,
+      "qte_volume": 5
+    },
+    {
+      "periode": 3,
+      "transaction": 16,
+      "robot": 16,
+      "qte_volume": 9
+    },
+    {
+      "periode": 3,
+      "transaction": 9,
+      "robot": 16,
+      "qte_volume": 4
     },
     {
       "periode": 4,
-      "transaction": 1,
+      "transaction": 12,
       "robot": 1,
       "qte_volume": 44
     },
     {
       "periode": 4,
-      "transaction": 1,
+      "transaction": 12,
       "robot": 2,
       "qte_volume": 44
     },
     {
       "periode": 4,
-      "transaction": 1,
+      "transaction": 12,
       "robot": 3,
       "qte_volume": 44
     },
     {
       "periode": 4,
-      "transaction": 1,
+      "transaction": 12,
       "robot": 4,
       "qte_volume": 44
     },
     {
       "periode": 4,
-      "transaction": 1,
-      "robot": 11,
-      "qte_volume": 44
-    },
-    {
-      "periode": 4,
-      "transaction": 1,
-      "robot": 12,
-      "qte_volume": 44
-    },
-    {
-      "periode": 4,
-      "transaction": 1,
-      "robot": 13,
-      "qte_volume": 44
-    },
-    {
-      "periode": 4,
-      "transaction": 1,
-      "robot": 21,
-      "qte_volume": 44
-    },
-    {
-      "periode": 4,
-      "transaction": 1,
-      "robot": 22,
-      "qte_volume": 44
-    },
-    {
-      "periode": 4,
-      "transaction": 1,
+      "transaction": 12,
       "robot": 5,
-      "qte_volume": 43
+      "qte_volume": 44
     },
     {
       "periode": 4,
-      "transaction": 1,
+      "transaction": 12,
       "robot": 6,
-      "qte_volume": 31
+      "qte_volume": 44
     },
     {
       "periode": 4,
-      "transaction": 6,
+      "transaction": 12,
+      "robot": 7,
+      "qte_volume": 44
+    },
+    {
+      "periode": 4,
+      "transaction": 12,
+      "robot": 8,
+      "qte_volume": 44
+    },
+    {
+      "periode": 4,
+      "transaction": 12,
+      "robot": 9,
+      "qte_volume": 44
+    },
+    {
+      "periode": 4,
+      "transaction": 12,
+      "robot": 10,
+      "qte_volume": 28
+    },
+    {
+      "periode": 5,
+      "transaction": 2,
+      "robot": 1,
+      "qte_volume": 24
+    },
+    {
+      "periode": 5,
+      "transaction": 2,
+      "robot": 2,
+      "qte_volume": 24
+    },
+    {
+      "periode": 5,
+      "transaction": 2,
+      "robot": 3,
+      "qte_volume": 24
+    },
+    {
+      "periode": 5,
+      "transaction": 2,
+      "robot": 4,
+      "qte_volume": 24
+    },
+    {
+      "periode": 5,
+      "transaction": 2,
+      "robot": 5,
+      "qte_volume": 24
+    },
+    {
+      "periode": 5,
+      "transaction": 2,
       "robot": 6,
       "qte_volume": 24
     },
     {
-      "periode": 4,
-      "transaction": 6,
-      "robot": 20,
-      "qte_volume": 90
+      "periode": 5,
+      "transaction": 2,
+      "robot": 7,
+      "qte_volume": 6
     },
     {
-      "periode": 4,
+      "periode": 5,
       "transaction": 6,
       "robot": 7,
-      "qte_volume": 88
+      "qte_volume": 27
     },
     {
-      "periode": 4,
+      "periode": 5,
       "transaction": 6,
       "robot": 8,
-      "qte_volume": 88
+      "qte_volume": 37
     },
     {
-      "periode": 4,
+      "periode": 5,
       "transaction": 6,
       "robot": 9,
-      "qte_volume": 88
+      "qte_volume": 37
     },
     {
-      "periode": 4,
+      "periode": 5,
       "transaction": 6,
       "robot": 10,
-      "qte_volume": 20
-    },
-    {
-      "periode": 4,
-      "transaction": 13,
-      "robot": 10,
-      "qte_volume": 97
-    },
-    {
-      "periode": 4,
-      "transaction": 13,
-      "robot": 14,
-      "qte_volume": 130
-    },
-    {
-      "periode": 4,
-      "transaction": 13,
-      "robot": 15,
-      "qte_volume": 130
-    },
-    {
-      "periode": 4,
-      "transaction": 13,
-      "robot": 16,
-      "qte_volume": 95
-    },
-    {
-      "periode": 4,
-      "transaction": 2,
-      "robot": 16,
-      "qte_volume": 15
-    },
-    {
-      "periode": 4,
-      "transaction": 2,
-      "robot": 17,
-      "qte_volume": 57
-    },
-    {
-      "periode": 4,
-      "transaction": 2,
-      "robot": 18,
-      "qte_volume": 57
-    },
-    {
-      "periode": 4,
-      "transaction": 7,
-      "robot": 19,
-      "qte_volume": 38
-    },
-    {
-      "periode": 4,
-      "transaction": 7,
-      "robot": 23,
-      "qte_volume": 38
+      "qte_volume": 37
     },
     {
       "periode": 5,
-      "transaction": 8,
-      "robot": 1,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
-      "robot": 2,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
-      "robot": 3,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
-      "robot": 4,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
-      "robot": 5,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
-      "robot": 6,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
-      "robot": 7,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
-      "robot": 8,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
-      "robot": 9,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
-      "robot": 10,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
+      "transaction": 6,
       "robot": 11,
-      "qte_volume": 21
+      "qte_volume": 37
     },
     {
       "periode": 5,
-      "transaction": 8,
+      "transaction": 6,
       "robot": 12,
-      "qte_volume": 21
+      "qte_volume": 18
     },
     {
       "periode": 5,
-      "transaction": 8,
-      "robot": 13,
-      "qte_volume": 21
+      "transaction": 9,
+      "robot": 12,
+      "qte_volume": 18
     },
     {
       "periode": 5,
-      "transaction": 8,
-      "robot": 14,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
-      "robot": 15,
-      "qte_volume": 21
-    },
-    {
-      "periode": 5,
-      "transaction": 8,
+      "transaction": 9,
       "robot": 16,
-      "qte_volume": 21
+      "qte_volume": 39
     },
     {
       "periode": 5,
-      "transaction": 8,
-      "robot": 17,
-      "qte_volume": 21
+      "transaction": 9,
+      "robot": 13,
+      "qte_volume": 34
     },
     {
       "periode": 5,
-      "transaction": 8,
-      "robot": 18,
-      "qte_volume": 21
+      "transaction": 1,
+      "robot": 13,
+      "qte_volume": 1
     },
     {
       "periode": 5,
-      "transaction": 8,
-      "robot": 19,
-      "qte_volume": 21
+      "transaction": 1,
+      "robot": 14,
+      "qte_volume": 19
     },
     {
       "periode": 5,
-      "transaction": 8,
-      "robot": 20,
-      "qte_volume": 21
+      "transaction": 1,
+      "robot": 15,
+      "qte_volume": 19
     },
     {
-      "periode": 5,
-      "transaction": 8,
-      "robot": 21,
-      "qte_volume": 7
+      "periode": 7,
+      "transaction": 1,
+      "robot": 13,
+      "qte_volume": 44
     },
     {
-      "periode": 5,
-      "transaction": 13,
-      "robot": 21,
-      "qte_volume": 29
+      "periode": 7,
+      "transaction": 1,
+      "robot": 14,
+      "qte_volume": 44
     },
     {
-      "periode": 5,
-      "transaction": 13,
-      "robot": 22,
+      "periode": 7,
+      "transaction": 1,
+      "robot": 15,
+      "qte_volume": 44
+    },
+    {
+      "periode": 7,
+      "transaction": 1,
+      "robot": 1,
       "qte_volume": 43
     },
     {
-      "periode": 5,
-      "transaction": 12,
-      "robot": 22,
-      "qte_volume": 2
-    },
-    {
-      "periode": 5,
-      "transaction": 12,
-      "robot": 23,
-      "qte_volume": 54
-    },
-    {
-      "periode": 6,
-      "transaction": 13,
-      "robot": 21,
-      "qte_volume": 81
-    },
-    {
-      "periode": 6,
-      "transaction": 13,
-      "robot": 1,
-      "qte_volume": 79
-    },
-    {
-      "periode": 6,
-      "transaction": 13,
+      "periode": 7,
+      "transaction": 1,
       "robot": 2,
-      "qte_volume": 79
+      "qte_volume": 43
     },
     {
-      "periode": 6,
-      "transaction": 13,
+      "periode": 7,
+      "transaction": 1,
       "robot": 3,
-      "qte_volume": 79
+      "qte_volume": 43
     },
     {
-      "periode": 6,
-      "transaction": 13,
+      "periode": 7,
+      "transaction": 1,
       "robot": 4,
-      "qte_volume": 79
+      "qte_volume": 43
     },
     {
-      "periode": 6,
-      "transaction": 13,
+      "periode": 7,
+      "transaction": 1,
       "robot": 5,
-      "qte_volume": 77
+      "qte_volume": 43
     },
     {
-      "periode": 6,
-      "transaction": 9,
+      "periode": 7,
+      "transaction": 1,
       "robot": 6,
-      "qte_volume": 54
+      "qte_volume": 43
     },
     {
-      "periode": 6,
-      "transaction": 9,
+      "periode": 7,
+      "transaction": 1,
       "robot": 7,
-      "qte_volume": 54
+      "qte_volume": 43
     },
     {
-      "periode": 6,
-      "transaction": 9,
+      "periode": 7,
+      "transaction": 1,
       "robot": 8,
-      "qte_volume": 54
+      "qte_volume": 28
     },
     {
-      "periode": 6,
-      "transaction": 9,
-      "robot": 9,
-      "qte_volume": 54
-    },
-    {
-      "periode": 6,
-      "transaction": 9,
-      "robot": 10,
-      "qte_volume": 54
-    },
-    {
-      "periode": 6,
-      "transaction": 9,
-      "robot": 11,
+      "periode": 7,
+      "transaction": 6,
+      "robot": 8,
       "qte_volume": 30
     },
     {
-      "periode": 6,
-      "transaction": 8,
+      "periode": 7,
+      "transaction": 6,
+      "robot": 9,
+      "qte_volume": 90
+    },
+    {
+      "periode": 7,
+      "transaction": 6,
+      "robot": 10,
+      "qte_volume": 87
+    },
+    {
+      "periode": 7,
+      "transaction": 3,
+      "robot": 10,
+      "qte_volume": 6
+    },
+    {
+      "periode": 7,
+      "transaction": 3,
       "robot": 11,
-      "qte_volume": 15
+      "qte_volume": 354
     },
     {
-      "periode": 6,
-      "transaction": 8,
+      "periode": 7,
+      "transaction": 3,
       "robot": 12,
-      "qte_volume": 36
+      "qte_volume": 56
     },
     {
-      "periode": 6,
-      "transaction": 8,
-      "robot": 13,
-      "qte_volume": 36
-    },
-    {
-      "periode": 6,
-      "transaction": 8,
-      "robot": 14,
-      "qte_volume": 36
-    },
-    {
-      "periode": 6,
-      "transaction": 8,
-      "robot": 15,
-      "qte_volume": 36
-    },
-    {
-      "periode": 6,
-      "transaction": 8,
-      "robot": 16,
-      "qte_volume": 3
-    },
-    {
-      "periode": 6,
-      "transaction": 12,
-      "robot": 16,
-      "qte_volume": 84
-    },
-    {
-      "periode": 6,
-      "transaction": 12,
-      "robot": 22,
-      "qte_volume": 94
-    },
-    {
-      "periode": 6,
-      "transaction": 12,
-      "robot": 23,
-      "qte_volume": 94
-    },
-    {
-      "periode": 6,
-      "transaction": 12,
-      "robot": 17,
-      "qte_volume": 92
-    },
-    {
-      "periode": 6,
-      "transaction": 12,
-      "robot": 18,
-      "qte_volume": 19
-    },
-    {
-      "periode": 6,
-      "transaction": 4,
-      "robot": 18,
-      "qte_volume": 122
-    },
-    {
-      "periode": 6,
-      "transaction": 4,
-      "robot": 19,
-      "qte_volume": 159
-    },
-    {
-      "periode": 6,
-      "transaction": 4,
-      "robot": 20,
-      "qte_volume": 19
-    },
-    {
-      "periode": 6,
+      "periode": 7,
       "transaction": 14,
-      "robot": 20,
+      "robot": 12,
       "qte_volume": 20
     },
     {
-      "periode": 6,
-      "transaction": 16,
-      "robot": 20,
-      "qte_volume": 14
-    },
-    {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 8,
+      "transaction": 8,
       "robot": 1,
-      "qte_volume": 32
+      "qte_volume": 57
     },
     {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 8,
+      "transaction": 8,
       "robot": 2,
-      "qte_volume": 32
+      "qte_volume": 57
     },
     {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 8,
+      "transaction": 8,
       "robot": 3,
-      "qte_volume": 32
+      "qte_volume": 57
     },
     {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 8,
+      "transaction": 8,
       "robot": 4,
-      "qte_volume": 32
+      "qte_volume": 57
     },
     {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 8,
+      "transaction": 8,
       "robot": 5,
-      "qte_volume": 32
+      "qte_volume": 57
     },
     {
-      "periode": 7,
-      "transaction": 13,
-      "robot": 21,
-      "qte_volume": 32
-    },
-    {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 8,
+      "transaction": 8,
       "robot": 6,
-      "qte_volume": 30
+      "qte_volume": 57
     },
     {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 8,
+      "transaction": 8,
       "robot": 7,
-      "qte_volume": 30
+      "qte_volume": 57
     },
     {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 8,
+      "transaction": 8,
       "robot": 8,
-      "qte_volume": 30
+      "qte_volume": 57
     },
     {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 8,
+      "transaction": 8,
       "robot": 9,
-      "qte_volume": 30
+      "qte_volume": 7
     },
     {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 9,
+      "transaction": 8,
+      "robot": 1,
+      "qte_volume": 22
+    },
+    {
+      "periode": 9,
+      "transaction": 8,
+      "robot": 2,
+      "qte_volume": 22
+    },
+    {
+      "periode": 9,
+      "transaction": 8,
+      "robot": 3,
+      "qte_volume": 22
+    },
+    {
+      "periode": 9,
+      "transaction": 8,
+      "robot": 4,
+      "qte_volume": 22
+    },
+    {
+      "periode": 9,
+      "transaction": 8,
+      "robot": 5,
+      "qte_volume": 22
+    },
+    {
+      "periode": 9,
+      "transaction": 8,
+      "robot": 6,
+      "qte_volume": 22
+    },
+    {
+      "periode": 9,
+      "transaction": 8,
+      "robot": 7,
+      "qte_volume": 22
+    },
+    {
+      "periode": 9,
+      "transaction": 8,
+      "robot": 8,
+      "qte_volume": 22
+    },
+    {
+      "periode": 9,
+      "transaction": 8,
+      "robot": 9,
+      "qte_volume": 22
+    },
+    {
+      "periode": 9,
+      "transaction": 8,
       "robot": 10,
-      "qte_volume": 30
+      "qte_volume": 21
     },
     {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 9,
+      "transaction": 8,
       "robot": 11,
-      "qte_volume": 30
+      "qte_volume": 21
     },
     {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 9,
+      "transaction": 8,
       "robot": 12,
-      "qte_volume": 30
+      "qte_volume": 21
     },
     {
-      "periode": 7,
-      "transaction": 13,
+      "periode": 9,
+      "transaction": 8,
       "robot": 13,
-      "qte_volume": 30
+      "qte_volume": 21
     },
     {
-      "periode": 7,
-      "transaction": 13,
-      "robot": 14,
-      "qte_volume": 3
-    },
-    {
-      "periode": 7,
+      "periode": 9,
       "transaction": 8,
       "robot": 14,
-      "qte_volume": 11
+      "qte_volume": 7
     },
     {
-      "periode": 7,
-      "transaction": 8,
-      "robot": 15,
-      "qte_volume": 14
+      "periode": 9,
+      "transaction": 9,
+      "robot": 14,
+      "qte_volume": 20
     },
     {
-      "periode": 7,
-      "transaction": 8,
+      "periode": 9,
+      "transaction": 9,
       "robot": 16,
-      "qte_volume": 13
-    },
-    {
-      "periode": 7,
-      "transaction": 8,
-      "robot": 17,
-      "qte_volume": 13
-    },
-    {
-      "periode": 7,
-      "transaction": 8,
-      "robot": 18,
-      "qte_volume": 13
-    },
-    {
-      "periode": 7,
-      "transaction": 8,
-      "robot": 19,
-      "qte_volume": 13
-    },
-    {
-      "periode": 7,
-      "transaction": 8,
-      "robot": 20,
-      "qte_volume": 13
-    },
-    {
-      "periode": 7,
-      "transaction": 8,
-      "robot": 22,
-      "qte_volume": 13
-    },
-    {
-      "periode": 7,
-      "transaction": 8,
-      "robot": 23,
-      "qte_volume": 13
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 1,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 2,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 3,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 4,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 5,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 6,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 7,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 8,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 9,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 10,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 11,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 12,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 13,
-      "qte_volume": 32
-    },
-    {
-      "periode": 9,
-      "transaction": 13,
-      "robot": 21,
-      "qte_volume": 14
-    },
-    {
-      "periode": 9,
-      "transaction": 4,
-      "robot": 21,
       "qte_volume": 33
     },
     {
       "periode": 9,
+      "transaction": 9,
+      "robot": 15,
+      "qte_volume": 32
+    },
+    {
+      "periode": 11,
+      "transaction": 13,
+      "robot": 1,
+      "qte_volume": 79
+    },
+    {
+      "periode": 11,
+      "transaction": 13,
+      "robot": 2,
+      "qte_volume": 79
+    },
+    {
+      "periode": 11,
+      "transaction": 13,
+      "robot": 3,
+      "qte_volume": 79
+    },
+    {
+      "periode": 11,
+      "transaction": 13,
+      "robot": 4,
+      "qte_volume": 79
+    },
+    {
+      "periode": 11,
+      "transaction": 13,
+      "robot": 5,
+      "qte_volume": 79
+    },
+    {
+      "periode": 11,
+      "transaction": 13,
+      "robot": 6,
+      "qte_volume": 79
+    },
+    {
+      "periode": 11,
+      "transaction": 13,
+      "robot": 7,
+      "qte_volume": 79
+    },
+    {
+      "periode": 11,
+      "transaction": 13,
+      "robot": 8,
+      "qte_volume": 79
+    },
+    {
+      "periode": 11,
+      "transaction": 13,
+      "robot": 9,
+      "qte_volume": 79
+    },
+    {
+      "periode": 11,
+      "transaction": 7,
+      "robot": 10,
+      "qte_volume": 24
+    },
+    {
+      "periode": 11,
+      "transaction": 7,
+      "robot": 11,
+      "qte_volume": 24
+    },
+    {
+      "periode": 11,
+      "transaction": 7,
+      "robot": 12,
+      "qte_volume": 24
+    },
+    {
+      "periode": 11,
+      "transaction": 7,
+      "robot": 13,
+      "qte_volume": 24
+    },
+    {
+      "periode": 11,
+      "transaction": 7,
+      "robot": 14,
+      "qte_volume": 12
+    },
+    {
+      "periode": 11,
       "transaction": 4,
       "robot": 14,
-      "qte_volume": 61
+      "qte_volume": 75
     },
     {
-      "periode": 9,
+      "periode": 11,
       "transaction": 4,
       "robot": 15,
-      "qte_volume": 61
+      "qte_volume": 159
     },
     {
-      "periode": 9,
+      "periode": 11,
       "transaction": 4,
       "robot": 16,
-      "qte_volume": 61
+      "qte_volume": 155
     },
     {
-      "periode": 9,
-      "transaction": 4,
-      "robot": 17,
-      "qte_volume": 61
+      "periode": 12,
+      "transaction": 13,
+      "robot": 1,
+      "qte_volume": 81
     },
     {
-      "periode": 9,
-      "transaction": 4,
-      "robot": 18,
-      "qte_volume": 23
+      "periode": 12,
+      "transaction": 13,
+      "robot": 2,
+      "qte_volume": 81
     },
     {
-      "periode": 9,
+      "periode": 12,
+      "transaction": 13,
+      "robot": 3,
+      "qte_volume": 81
+    },
+    {
+      "periode": 12,
+      "transaction": 13,
+      "robot": 4,
+      "qte_volume": 81
+    },
+    {
+      "periode": 12,
+      "transaction": 13,
+      "robot": 5,
+      "qte_volume": 81
+    },
+    {
+      "periode": 12,
+      "transaction": 13,
+      "robot": 6,
+      "qte_volume": 81
+    },
+    {
+      "periode": 12,
+      "transaction": 13,
+      "robot": 7,
+      "qte_volume": 81
+    },
+    {
+      "periode": 12,
+      "transaction": 13,
+      "robot": 8,
+      "qte_volume": 77
+    },
+    {
+      "periode": 12,
       "transaction": 7,
-      "robot": 18,
+      "robot": 10,
+      "qte_volume": 24
+    },
+    {
+      "periode": 12,
+      "transaction": 7,
+      "robot": 11,
+      "qte_volume": 24
+    },
+    {
+      "periode": 12,
+      "transaction": 7,
+      "robot": 12,
+      "qte_volume": 24
+    },
+    {
+      "periode": 12,
+      "transaction": 7,
+      "robot": 13,
+      "qte_volume": 24
+    },
+    {
+      "periode": 12,
+      "transaction": 7,
+      "robot": 9,
+      "qte_volume": 24
+    },
+    {
+      "periode": 12,
+      "transaction": 7,
+      "robot": 14,
+      "qte_volume": 24
+    },
+    {
+      "periode": 12,
+      "transaction": 7,
+      "robot": 15,
+      "qte_volume": 11
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 1,
+      "qte_volume": 32
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 2,
+      "qte_volume": 32
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 3,
+      "qte_volume": 32
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 4,
+      "qte_volume": 32
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 5,
+      "qte_volume": 32
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 6,
+      "qte_volume": 32
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 7,
+      "qte_volume": 32
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 8,
+      "qte_volume": 32
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 9,
+      "qte_volume": 30
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 10,
+      "qte_volume": 30
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 11,
+      "qte_volume": 30
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 12,
+      "qte_volume": 30
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 13,
+      "qte_volume": 30
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 14,
+      "qte_volume": 30
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 15,
+      "qte_volume": 30
+    },
+    {
+      "periode": 13,
+      "transaction": 13,
+      "robot": 16,
+      "qte_volume": 30
+    },
+    {
+      "periode": 15,
+      "transaction": 13,
+      "robot": 1,
+      "qte_volume": 32
+    },
+    {
+      "periode": 15,
+      "transaction": 13,
+      "robot": 2,
+      "qte_volume": 32
+    },
+    {
+      "periode": 15,
+      "transaction": 13,
+      "robot": 3,
+      "qte_volume": 32
+    },
+    {
+      "periode": 15,
+      "transaction": 13,
+      "robot": 4,
+      "qte_volume": 32
+    },
+    {
+      "periode": 15,
+      "transaction": 13,
+      "robot": 5,
+      "qte_volume": 32
+    },
+    {
+      "periode": 15,
+      "transaction": 13,
+      "robot": 6,
+      "qte_volume": 32
+    },
+    {
+      "periode": 15,
+      "transaction": 13,
+      "robot": 7,
+      "qte_volume": 14
+    },
+    {
+      "periode": 15,
+      "transaction": 3,
+      "robot": 7,
+      "qte_volume": 45
+    },
+    {
+      "periode": 15,
+      "transaction": 3,
+      "robot": 8,
+      "qte_volume": 84
+    },
+    {
+      "periode": 15,
+      "transaction": 3,
+      "robot": 9,
+      "qte_volume": 55
+    },
+    {
+      "periode": 15,
+      "transaction": 16,
+      "robot": 9,
       "qte_volume": 5
     },
     {
-      "periode": 9,
-      "transaction": 7,
-      "robot": 19,
-      "qte_volume": 9
+      "periode": 15,
+      "transaction": 16,
+      "robot": 10,
+      "qte_volume": 21
     },
     {
-      "periode": 9,
-      "transaction": 7,
-      "robot": 20,
-      "qte_volume": 9
+      "periode": 15,
+      "transaction": 16,
+      "robot": 11,
+      "qte_volume": 5
     },
     {
-      "periode": 9,
-      "transaction": 12,
-      "robot": 22,
-      "qte_volume": 35
-    },
-    {
-      "periode": 9,
-      "transaction": 12,
-      "robot": 23,
+      "periode": 15,
+      "transaction": 15,
+      "robot": 11,
       "qte_volume": 7
     },
     {
-      "periode": 9,
-      "transaction": 3,
-      "robot": 23,
+      "periode": 15,
+      "transaction": 15,
+      "robot": 12,
+      "qte_volume": 3
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 1,
+      "qte_volume": 32
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 2,
+      "qte_volume": 32
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 3,
+      "qte_volume": 32
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 4,
+      "qte_volume": 32
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 5,
+      "qte_volume": 32
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 6,
+      "qte_volume": 32
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 13,
+      "qte_volume": 32
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 14,
+      "qte_volume": 32
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 15,
+      "qte_volume": 32
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 16,
+      "qte_volume": 32
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 7,
+      "qte_volume": 30
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 8,
+      "qte_volume": 30
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 9,
+      "qte_volume": 30
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 10,
+      "qte_volume": 30
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 11,
+      "qte_volume": 30
+    },
+    {
+      "periode": 16,
+      "transaction": 13,
+      "robot": 12,
+      "qte_volume": 30
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 1,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 2,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 3,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 4,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 5,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 6,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 7,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 8,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 9,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 10,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 11,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 12,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 13,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 14,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 15,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 11,
+      "robot": 16,
+      "qte_volume": 2
+    },
+    {
+      "periode": 17,
+      "transaction": 10,
+      "robot": 1,
+      "qte_volume": 9
+    },
+    {
+      "periode": 17,
+      "transaction": 10,
+      "robot": 2,
+      "qte_volume": 9
+    },
+    {
+      "periode": 17,
+      "transaction": 10,
+      "robot": 3,
+      "qte_volume": 9
+    },
+    {
+      "periode": 17,
+      "transaction": 10,
+      "robot": 4,
+      "qte_volume": 9
+    },
+    {
+      "periode": 17,
+      "transaction": 10,
+      "robot": 5,
+      "qte_volume": 9
+    },
+    {
+      "periode": 17,
+      "transaction": 10,
+      "robot": 6,
+      "qte_volume": 9
+    },
+    {
+      "periode": 17,
+      "transaction": 10,
+      "robot": 7,
+      "qte_volume": 7
+    },
+    {
+      "periode": 17,
+      "transaction": 9,
+      "robot": 8,
+      "qte_volume": 19
+    },
+    {
+      "periode": 17,
+      "transaction": 9,
+      "robot": 9,
+      "qte_volume": 19
+    },
+    {
+      "periode": 17,
+      "transaction": 9,
+      "robot": 10,
+      "qte_volume": 19
+    },
+    {
+      "periode": 17,
+      "transaction": 9,
+      "robot": 11,
+      "qte_volume": 19
+    },
+    {
+      "periode": 17,
+      "transaction": 9,
+      "robot": 12,
+      "qte_volume": 19
+    },
+    {
+      "periode": 17,
+      "transaction": 9,
+      "robot": 13,
+      "qte_volume": 19
+    },
+    {
+      "periode": 17,
+      "transaction": 9,
+      "robot": 14,
+      "qte_volume": 6
+    },
+    {
+      "periode": 18,
+      "transaction": 11,
+      "robot": 15,
+      "qte_volume": 3
+    },
+    {
+      "periode": 18,
+      "transaction": 11,
+      "robot": 16,
+      "qte_volume": 3
+    },
+    {
+      "periode": 18,
+      "transaction": 11,
+      "robot": 1,
+      "qte_volume": 2
+    },
+    {
+      "periode": 18,
+      "transaction": 11,
+      "robot": 2,
+      "qte_volume": 2
+    },
+    {
+      "periode": 18,
+      "transaction": 11,
+      "robot": 3,
+      "qte_volume": 2
+    },
+    {
+      "periode": 18,
+      "transaction": 11,
+      "robot": 4,
+      "qte_volume": 2
+    },
+    {
+      "periode": 18,
+      "transaction": 11,
+      "robot": 5,
+      "qte_volume": 2
+    },
+    {
+      "periode": 18,
+      "transaction": 11,
+      "robot": 6,
+      "qte_volume": 2
+    },
+    {
+      "periode": 18,
+      "transaction": 7,
+      "robot": 1,
+      "qte_volume": 8
+    },
+    {
+      "periode": 18,
+      "transaction": 7,
+      "robot": 2,
+      "qte_volume": 8
+    },
+    {
+      "periode": 18,
+      "transaction": 7,
+      "robot": 3,
+      "qte_volume": 8
+    },
+    {
+      "periode": 18,
+      "transaction": 7,
+      "robot": 4,
+      "qte_volume": 8
+    },
+    {
+      "periode": 18,
+      "transaction": 7,
+      "robot": 5,
+      "qte_volume": 8
+    },
+    {
+      "periode": 18,
+      "transaction": 7,
+      "robot": 6,
+      "qte_volume": 8
+    },
+    {
+      "periode": 18,
+      "transaction": 7,
+      "robot": 7,
+      "qte_volume": 28
+    },
+    {
+      "periode": 18,
+      "transaction": 7,
+      "robot": 8,
+      "qte_volume": 28
+    },
+    {
+      "periode": 18,
+      "transaction": 7,
+      "robot": 9,
+      "qte_volume": 28
+    },
+    {
+      "periode": 18,
+      "transaction": 7,
+      "robot": 10,
+      "qte_volume": 28
+    },
+    {
+      "periode": 18,
+      "transaction": 7,
+      "robot": 11,
+      "qte_volume": 8
+    },
+    {
+      "periode": 20,
+      "transaction": 7,
+      "robot": 1,
+      "qte_volume": 9
+    },
+    {
+      "periode": 20,
+      "transaction": 7,
+      "robot": 2,
+      "qte_volume": 9
+    },
+    {
+      "periode": 20,
+      "transaction": 7,
+      "robot": 3,
+      "qte_volume": 9
+    },
+    {
+      "periode": 20,
+      "transaction": 7,
+      "robot": 4,
+      "qte_volume": 9
+    },
+    {
+      "periode": 20,
+      "transaction": 7,
+      "robot": 5,
+      "qte_volume": 9
+    },
+    {
+      "periode": 20,
+      "transaction": 7,
+      "robot": 6,
+      "qte_volume": 9
+    },
+    {
+      "periode": 20,
+      "transaction": 7,
+      "robot": 7,
+      "qte_volume": 9
+    },
+    {
+      "periode": 20,
+      "transaction": 7,
+      "robot": 8,
+      "qte_volume": 6
+    },
+    {
+      "periode": 20,
+      "transaction": 10,
+      "robot": 8,
+      "qte_volume": 3
+    },
+    {
+      "periode": 20,
+      "transaction": 10,
+      "robot": 9,
+      "qte_volume": 10
+    },
+    {
+      "periode": 20,
+      "transaction": 10,
+      "robot": 10,
+      "qte_volume": 10
+    },
+    {
+      "periode": 20,
+      "transaction": 10,
+      "robot": 11,
+      "qte_volume": 10
+    },
+    {
+      "periode": 20,
+      "transaction": 10,
+      "robot": 12,
+      "qte_volume": 6
+    },
+    {
+      "periode": 20,
+      "transaction": 4,
+      "robot": 12,
+      "qte_volume": 21
+    },
+    {
+      "periode": 20,
+      "transaction": 4,
+      "robot": 1,
+      "qte_volume": 1
+    },
+    {
+      "periode": 20,
+      "transaction": 4,
+      "robot": 2,
+      "qte_volume": 1
+    },
+    {
+      "periode": 20,
+      "transaction": 4,
+      "robot": 3,
+      "qte_volume": 1
+    },
+    {
+      "periode": 20,
+      "transaction": 4,
+      "robot": 4,
+      "qte_volume": 1
+    },
+    {
+      "periode": 20,
+      "transaction": 4,
+      "robot": 5,
+      "qte_volume": 1
+    },
+    {
+      "periode": 20,
+      "transaction": 4,
+      "robot": 6,
+      "qte_volume": 1
+    },
+    {
+      "periode": 20,
+      "transaction": 4,
+      "robot": 7,
+      "qte_volume": 1
+    },
+    {
+      "periode": 20,
+      "transaction": 4,
+      "robot": 13,
       "qte_volume": 61
     },
     {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 1,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 2,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 3,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 4,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 5,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 6,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 7,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 8,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 9,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 10,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 11,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 12,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 13,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
+      "periode": 20,
+      "transaction": 4,
       "robot": 14,
-      "qte_volume": 2
+      "qte_volume": 61
     },
     {
-      "periode": 11,
-      "transaction": 11,
+      "periode": 20,
+      "transaction": 4,
       "robot": 15,
-      "qte_volume": 2
+      "qte_volume": 61
     },
     {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 16,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 17,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 18,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 19,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 11,
-      "robot": 20,
-      "qte_volume": 2
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 1,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 2,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 3,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 4,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 5,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 6,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 7,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 8,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 9,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 10,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 11,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 12,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 13,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 14,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 15,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 16,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 17,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 18,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 19,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 20,
-      "qte_volume": 8
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 21,
-      "qte_volume": 28
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 22,
-      "qte_volume": 28
-    },
-    {
-      "periode": 11,
-      "transaction": 7,
-      "robot": 23,
-      "qte_volume": 13
-    },
-    {
-      "periode": 11,
-      "transaction": 16,
-      "robot": 23,
-      "qte_volume": 26
-    },
-    {
-      "periode": 12,
-      "transaction": 11,
-      "robot": 1,
-      "qte_volume": 2
-    },
-    {
-      "periode": 12,
-      "transaction": 11,
-      "robot": 2,
-      "qte_volume": 2
-    },
-    {
-      "periode": 12,
-      "transaction": 11,
-      "robot": 3,
-      "qte_volume": 2
-    },
-    {
-      "periode": 12,
-      "transaction": 11,
-      "robot": 4,
-      "qte_volume": 2
-    },
-    {
-      "periode": 12,
-      "transaction": 11,
-      "robot": 5,
-      "qte_volume": 2
-    },
-    {
-      "periode": 12,
+      "periode": 20,
       "transaction": 15,
-      "robot": 1,
-      "qte_volume": 9
-    },
-    {
-      "periode": 12,
-      "transaction": 15,
-      "robot": 2,
-      "qte_volume": 9
-    },
-    {
-      "periode": 12,
-      "transaction": 15,
-      "robot": 3,
-      "qte_volume": 2
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 6,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 7,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 8,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 9,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 10,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 11,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 12,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 13,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 14,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 15,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
       "robot": 16,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 17,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 18,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 19,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 20,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 21,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 22,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 1,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 2,
-      "qte_volume": 9
-    },
-    {
-      "periode": 13,
-      "transaction": 7,
-      "robot": 3,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 3,
-      "qte_volume": 68
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 6,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 7,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 8,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 9,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 10,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 11,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 12,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 13,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 14,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 15,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 16,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 17,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 18,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 19,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 20,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 21,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 22,
-      "qte_volume": 1
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 4,
-      "qte_volume": 84
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 5,
-      "qte_volume": 84
-    },
-    {
-      "periode": 13,
-      "transaction": 3,
-      "robot": 23,
-      "qte_volume": 78
-    },
-    {
-      "periode": 14,
-      "transaction": 10,
-      "robot": 1,
-      "qte_volume": 10
-    },
-    {
-      "periode": 14,
-      "transaction": 10,
-      "robot": 2,
-      "qte_volume": 10
-    },
-    {
-      "periode": 14,
-      "transaction": 10,
-      "robot": 3,
-      "qte_volume": 10
-    },
-    {
-      "periode": 14,
-      "transaction": 10,
-      "robot": 4,
-      "qte_volume": 10
-    },
-    {
-      "periode": 14,
-      "transaction": 10,
-      "robot": 5,
-      "qte_volume": 10
-    },
-    {
-      "periode": 14,
-      "transaction": 10,
-      "robot": 6,
-      "qte_volume": 10
-    },
-    {
-      "periode": 14,
-      "transaction": 10,
-      "robot": 7,
-      "qte_volume": 10
-    },
-    {
-      "periode": 14,
-      "transaction": 10,
-      "robot": 8,
-      "qte_volume": 10
-    },
-    {
-      "periode": 14,
-      "transaction": 10,
-      "robot": 9,
-      "qte_volume": 10
-    },
-    {
-      "periode": 14,
-      "transaction": 10,
-      "robot": 10,
       "qte_volume": 10
     }
   ],
   "duree_periode": {
     "1": 7200,
-    "2": 4500,
-    "3": 6300,
-    "4": 14400,
-    "5": 5400,
-    "6": 9000,
-    "7": 3600,
-    "8": 3600,
-    "9": 3600,
-    "10": 3600,
-    "11": 10800,
-    "12": 10800,
+    "2": 7200,
+    "3": 4500,
+    "4": 4500,
+    "5": 6300,
+    "6": 6300,
+    "7": 14400,
+    "8": 14400,
+    "9": 5400,
+    "10": 5400,
+    "11": 9000,
+    "12": 9000,
     "13": 3600,
-    "14": 3600
+    "14": 3600,
+    "15": 3600,
+    "16": 3600,
+    "17": 10800,
+    "18": 10800,
+    "19": 3600,
+    "20": 3600
   },
   "nb_robot_periode": {
-    "1": 23,
-    "2": 23,
-    "3": 23,
-    "4": 23,
-    "5": 23,
-    "6": 23,
-    "7": 23,
-    "8": 0,
-    "9": 23,
+    "1": 16,
+    "2": 16,
+    "3": 16,
+    "4": 10,
+    "5": 16,
+    "6": 0,
+    "7": 15,
+    "8": 9,
+    "9": 16,
     "10": 0,
-    "11": 23,
-    "12": 5,
-    "13": 23,
-    "14": 10
+    "11": 16,
+    "12": 15,
+    "13": 16,
+    "14": 0,
+    "15": 12,
+    "16": 16,
+    "17": 16,
+    "18": 16,
+    "19": 0,
+    "20": 16
   },
   "duree_transaction": {
     "1": 325,
@@ -1924,20 +1732,20 @@
     "16": 160
   },
   "meta": {
-    "nb_robots": 23,
-    "nb_demarrages": 23,
-    "nb_reconfigurations": 200,
-    "temps_annexe_min": 1145,
+    "nb_robots": 16,
+    "nb_demarrages": 16,
+    "nb_reconfigurations": 197,
+    "temps_annexe_min": 1028,
     "methode": "Algorithme Génétique",
-    "borne_inferieure_lp": 19.6241,
+    "borne_inferieure_lp": 11.4129,
     "optimalite_prouvee": false,
-    "jeu_de_donnees": "Jeu de données 2 (Table I, temps d'exécution recalibrés) — périodes plafonnées à 10 par transaction",
+    "jeu_de_donnees": "Jeu de données 2 (Table I, temps d'exécution recalibrés) — périodes plafonnées à 16 par transaction",
     "redemarrages": 3,
     "generations": 600,
     "evaluations": 48243,
-    "periodes_actives": 12,
-    "periodes_disponibles": 14,
-    "max_periodes_par_transaction": 10,
-    "temps_calcul_s": 327.86
+    "periodes_actives": 16,
+    "periodes_disponibles": 20,
+    "max_periodes_par_transaction": 16,
+    "temps_calcul_s": 253.98
   }
 }
