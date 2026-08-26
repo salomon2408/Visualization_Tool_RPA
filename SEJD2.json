@@ -1,0 +1,616 @@
+{
+  "transactions": [
+    {
+      "periode": 11,
+      "transaction": 1,
+      "robot": 1,
+      "qte_volume": 5
+    },
+    {
+      "periode": 11,
+      "transaction": 1,
+      "robot": 2,
+      "qte_volume": 66
+    },
+    {
+      "periode": 11,
+      "transaction": 1,
+      "robot": 4,
+      "qte_volume": 66
+    },
+    {
+      "periode": 11,
+      "transaction": 1,
+      "robot": 5,
+      "qte_volume": 64
+    },
+    {
+      "periode": 11,
+      "transaction": 1,
+      "robot": 7,
+      "qte_volume": 64
+    },
+    {
+      "periode": 11,
+      "transaction": 1,
+      "robot": 8,
+      "qte_volume": 4
+    },
+    {
+      "periode": 11,
+      "transaction": 1,
+      "robot": 9,
+      "qte_volume": 66
+    },
+    {
+      "periode": 11,
+      "transaction": 1,
+      "robot": 10,
+      "qte_volume": 66
+    },
+    {
+      "periode": 11,
+      "transaction": 1,
+      "robot": 11,
+      "qte_volume": 18
+    },
+    {
+      "periode": 11,
+      "transaction": 1,
+      "robot": 12,
+      "qte_volume": 65
+    },
+    {
+      "periode": 11,
+      "transaction": 1,
+      "robot": 13,
+      "qte_volume": 66
+    },
+    {
+      "periode": 11,
+      "transaction": 2,
+      "robot": 3,
+      "qte_volume": 88
+    },
+    {
+      "periode": 11,
+      "transaction": 2,
+      "robot": 11,
+      "qte_volume": 61
+    },
+    {
+      "periode": 11,
+      "transaction": 2,
+      "robot": 12,
+      "qte_volume": 1
+    },
+    {
+      "periode": 11,
+      "transaction": 6,
+      "robot": 1,
+      "qte_volume": 124
+    },
+    {
+      "periode": 11,
+      "transaction": 6,
+      "robot": 5,
+      "qte_volume": 5
+    },
+    {
+      "periode": 11,
+      "transaction": 6,
+      "robot": 6,
+      "qte_volume": 135
+    },
+    {
+      "periode": 11,
+      "transaction": 6,
+      "robot": 7,
+      "qte_volume": 5
+    },
+    {
+      "periode": 11,
+      "transaction": 6,
+      "robot": 8,
+      "qte_volume": 126
+    },
+    {
+      "periode": 11,
+      "transaction": 6,
+      "robot": 11,
+      "qte_volume": 4
+    },
+    {
+      "periode": 11,
+      "transaction": 6,
+      "robot": 12,
+      "qte_volume": 1
+    },
+    {
+      "periode": 12,
+      "transaction": 5,
+      "robot": 2,
+      "qte_volume": 270
+    },
+    {
+      "periode": 12,
+      "transaction": 5,
+      "robot": 5,
+      "qte_volume": 190
+    },
+    {
+      "periode": 12,
+      "transaction": 5,
+      "robot": 7,
+      "qte_volume": 270
+    },
+    {
+      "periode": 12,
+      "transaction": 5,
+      "robot": 8,
+      "qte_volume": 270
+    },
+    {
+      "periode": 12,
+      "transaction": 13,
+      "robot": 3,
+      "qte_volume": 760
+    },
+    {
+      "periode": 12,
+      "transaction": 13,
+      "robot": 4,
+      "qte_volume": 1080
+    },
+    {
+      "periode": 12,
+      "transaction": 13,
+      "robot": 6,
+      "qte_volume": 1080
+    },
+    {
+      "periode": 12,
+      "transaction": 13,
+      "robot": 9,
+      "qte_volume": 1080
+    },
+    {
+      "periode": 13,
+      "transaction": 4,
+      "robot": 1,
+      "qte_volume": 366
+    },
+    {
+      "periode": 13,
+      "transaction": 4,
+      "robot": 2,
+      "qte_volume": 5
+    },
+    {
+      "periode": 13,
+      "transaction": 4,
+      "robot": 3,
+      "qte_volume": 388
+    },
+    {
+      "periode": 13,
+      "transaction": 4,
+      "robot": 4,
+      "qte_volume": 170
+    },
+    {
+      "periode": 13,
+      "transaction": 4,
+      "robot": 5,
+      "qte_volume": 14
+    },
+    {
+      "periode": 13,
+      "transaction": 4,
+      "robot": 6,
+      "qte_volume": 388
+    },
+    {
+      "periode": 13,
+      "transaction": 4,
+      "robot": 7,
+      "qte_volume": 388
+    },
+    {
+      "periode": 13,
+      "transaction": 4,
+      "robot": 8,
+      "qte_volume": 5
+    },
+    {
+      "periode": 13,
+      "transaction": 4,
+      "robot": 9,
+      "qte_volume": 388
+    },
+    {
+      "periode": 13,
+      "transaction": 4,
+      "robot": 10,
+      "qte_volume": 388
+    },
+    {
+      "periode": 13,
+      "transaction": 8,
+      "robot": 1,
+      "qte_volume": 6
+    },
+    {
+      "periode": 13,
+      "transaction": 8,
+      "robot": 2,
+      "qte_volume": 87
+    },
+    {
+      "periode": 13,
+      "transaction": 8,
+      "robot": 3,
+      "qte_volume": 1
+    },
+    {
+      "periode": 13,
+      "transaction": 8,
+      "robot": 4,
+      "qte_volume": 50
+    },
+    {
+      "periode": 13,
+      "transaction": 8,
+      "robot": 5,
+      "qte_volume": 85
+    },
+    {
+      "periode": 13,
+      "transaction": 8,
+      "robot": 6,
+      "qte_volume": 1
+    },
+    {
+      "periode": 13,
+      "transaction": 8,
+      "robot": 7,
+      "qte_volume": 1
+    },
+    {
+      "periode": 13,
+      "transaction": 8,
+      "robot": 8,
+      "qte_volume": 87
+    },
+    {
+      "periode": 13,
+      "transaction": 8,
+      "robot": 9,
+      "qte_volume": 1
+    },
+    {
+      "periode": 13,
+      "transaction": 8,
+      "robot": 10,
+      "qte_volume": 1
+    },
+    {
+      "periode": 14,
+      "transaction": 12,
+      "robot": 3,
+      "qte_volume": 138
+    },
+    {
+      "periode": 14,
+      "transaction": 12,
+      "robot": 5,
+      "qte_volume": 227
+    },
+    {
+      "periode": 14,
+      "transaction": 12,
+      "robot": 6,
+      "qte_volume": 227
+    },
+    {
+      "periode": 14,
+      "transaction": 12,
+      "robot": 7,
+      "qte_volume": 227
+    },
+    {
+      "periode": 14,
+      "transaction": 12,
+      "robot": 8,
+      "qte_volume": 227
+    },
+    {
+      "periode": 14,
+      "transaction": 12,
+      "robot": 9,
+      "qte_volume": 227
+    },
+    {
+      "periode": 14,
+      "transaction": 12,
+      "robot": 10,
+      "qte_volume": 227
+    },
+    {
+      "periode": 15,
+      "transaction": 8,
+      "robot": 2,
+      "qte_volume": 64
+    },
+    {
+      "periode": 15,
+      "transaction": 8,
+      "robot": 4,
+      "qte_volume": 88
+    },
+    {
+      "periode": 15,
+      "transaction": 8,
+      "robot": 5,
+      "qte_volume": 88
+    },
+    {
+      "periode": 15,
+      "transaction": 8,
+      "robot": 6,
+      "qte_volume": 88
+    },
+    {
+      "periode": 15,
+      "transaction": 8,
+      "robot": 7,
+      "qte_volume": 88
+    },
+    {
+      "periode": 15,
+      "transaction": 8,
+      "robot": 8,
+      "qte_volume": 88
+    },
+    {
+      "periode": 15,
+      "transaction": 8,
+      "robot": 9,
+      "qte_volume": 88
+    },
+    {
+      "periode": 15,
+      "transaction": 8,
+      "robot": 10,
+      "qte_volume": 88
+    },
+    {
+      "periode": 16,
+      "transaction": 7,
+      "robot": 2,
+      "qte_volume": 21
+    },
+    {
+      "periode": 16,
+      "transaction": 7,
+      "robot": 3,
+      "qte_volume": 49
+    },
+    {
+      "periode": 16,
+      "transaction": 7,
+      "robot": 4,
+      "qte_volume": 49
+    },
+    {
+      "periode": 16,
+      "transaction": 7,
+      "robot": 5,
+      "qte_volume": 49
+    },
+    {
+      "periode": 16,
+      "transaction": 7,
+      "robot": 7,
+      "qte_volume": 37
+    },
+    {
+      "periode": 16,
+      "transaction": 7,
+      "robot": 8,
+      "qte_volume": 46
+    },
+    {
+      "periode": 16,
+      "transaction": 7,
+      "robot": 9,
+      "qte_volume": 49
+    },
+    {
+      "periode": 16,
+      "transaction": 9,
+      "robot": 1,
+      "qte_volume": 112
+    },
+    {
+      "periode": 16,
+      "transaction": 9,
+      "robot": 6,
+      "qte_volume": 76
+    },
+    {
+      "periode": 16,
+      "transaction": 9,
+      "robot": 10,
+      "qte_volume": 112
+    },
+    {
+      "periode": 16,
+      "transaction": 14,
+      "robot": 7,
+      "qte_volume": 18
+    },
+    {
+      "periode": 16,
+      "transaction": 14,
+      "robot": 8,
+      "qte_volume": 2
+    },
+    {
+      "periode": 16,
+      "transaction": 16,
+      "robot": 6,
+      "qte_volume": 36
+    },
+    {
+      "periode": 16,
+      "transaction": 16,
+      "robot": 8,
+      "qte_volume": 4
+    },
+    {
+      "periode": 18,
+      "transaction": 3,
+      "robot": 1,
+      "qte_volume": 449
+    },
+    {
+      "periode": 18,
+      "transaction": 3,
+      "robot": 2,
+      "qte_volume": 450
+    },
+    {
+      "periode": 18,
+      "transaction": 3,
+      "robot": 3,
+      "qte_volume": 450
+    },
+    {
+      "periode": 18,
+      "transaction": 3,
+      "robot": 4,
+      "qte_volume": 450
+    },
+    {
+      "periode": 19,
+      "transaction": 3,
+      "robot": 2,
+      "qte_volume": 301
+    },
+    {
+      "periode": 19,
+      "transaction": 3,
+      "robot": 3,
+      "qte_volume": 450
+    },
+    {
+      "periode": 19,
+      "transaction": 3,
+      "robot": 4,
+      "qte_volume": 450
+    },
+    {
+      "periode": 21,
+      "transaction": 11,
+      "robot": 1,
+      "qte_volume": 6
+    },
+    {
+      "periode": 21,
+      "transaction": 11,
+      "robot": 3,
+      "qte_volume": 1
+    },
+    {
+      "periode": 21,
+      "transaction": 11,
+      "robot": 4,
+      "qte_volume": 6
+    },
+    {
+      "periode": 21,
+      "transaction": 15,
+      "robot": 2,
+      "qte_volume": 11
+    },
+    {
+      "periode": 21,
+      "transaction": 15,
+      "robot": 3,
+      "qte_volume": 9
+    },
+    {
+      "periode": 26,
+      "transaction": 10,
+      "robot": 1,
+      "qte_volume": 36
+    },
+    {
+      "periode": 26,
+      "transaction": 10,
+      "robot": 3,
+      "qte_volume": 20
+    },
+    {
+      "periode": 26,
+      "transaction": 10,
+      "robot": 4,
+      "qte_volume": 44
+    },
+    {
+      "periode": 26,
+      "transaction": 11,
+      "robot": 2,
+      "qte_volume": 24
+    },
+    {
+      "periode": 26,
+      "transaction": 11,
+      "robot": 3,
+      "qte_volume": 13
+    }
+  ],
+  "duree_periode": {
+    "11": 21600,
+    "12": 21600,
+    "13": 21600,
+    "14": 21600,
+    "15": 21600,
+    "16": 18000,
+    "18": 18000,
+    "19": 18000,
+    "21": 3600,
+    "26": 14400
+  },
+  "nb_robot_periode": {
+    "11": 13,
+    "12": 10,
+    "13": 10,
+    "14": 10,
+    "15": 10,
+    "16": 10,
+    "18": 4,
+    "19": 4,
+    "21": 4,
+    "26": 4
+  },
+  "duree_transaction": {
+    "1": 325,
+    "2": 245,
+    "3": 40,
+    "4": 55,
+    "5": 80,
+    "6": 160,
+    "7": 365,
+    "8": 245,
+    "9": 160,
+    "10": 325,
+    "11": 600,
+    "12": 95,
+    "13": 20,
+    "14": 245,
+    "15": 325,
+    "16": 160
+  }
+}
